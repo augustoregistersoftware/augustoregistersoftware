@@ -3,6 +3,7 @@
 - 🌱 Atualmente estou aprendendo Go Git PostgreeSQL
 - 📫 Como entrar em contato comigo: Whatsapp(14) 99121-0113
 - 📚 Ensino: BCC em Ciencias da Computacao - Universidade Univem / Curso: Hugo Cursos, MicroPro, Udemy
+- ❗Aviso: Maioria dos meus repositorios estão ocultos caso deseja visualizar favor entre em contato
 
 
 ## Banco de dados:
