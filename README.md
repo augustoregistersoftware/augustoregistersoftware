@@ -22,7 +22,7 @@
 
 ## Educação:
 <img loading="lazy" src="https://www.univem.edu.br/img/site/logo.png" width="9%"/>  <img loading="lazy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" width="9%"/> 
-<img loading="lazy" src="https://images.app.goo.gl/UzdDYN7ts5bAXqg46" />
+<img loading="lazy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fhugo-vasconcelos-824375a5&psig=AOvVaw3J-JncQ2OaxJyI9SFkEOsx&ust=1696966506003000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjK2YHb6YEDFQAAAAAdAAAAABAD" />
 
 
 <div>
