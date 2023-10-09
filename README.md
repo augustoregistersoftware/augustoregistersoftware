@@ -2,6 +2,7 @@
 - 🔭 Atualmente estou trabalhando em Fabrica de Codigos
 - 🌱 Atualmente estou aprendendo Go Git PostgreeSQL
 - 📫 Como entrar em contato comigo: Whatsapp(14) 99121-0113
+- 📚 Ensino: BCC em Ciencias da Computacao - Universidade Univem / Curso: Hugo Cursos, MicroPro, Udemy
 
 ## Ferramentas e Tecnologias
 
