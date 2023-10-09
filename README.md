@@ -24,7 +24,7 @@
 
 
 
-![Snake animation](https://github.com/AUGUSTOOVALENCIANO/AUGUSTOOVALENCIANO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AUGUSTOOVALENCIANO/augustovalenciano/blob/output/github-contribution-grid-snake.svg)
           
           
           
