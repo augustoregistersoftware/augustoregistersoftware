@@ -18,9 +18,9 @@
 
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustovalencianoi&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=augustovalenciaoi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/AUGUSTOOVALENCIANO">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUGUSTOOVALENCIANOi&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AUGUSTOOVALENCIANO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
           
