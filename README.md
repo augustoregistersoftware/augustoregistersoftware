@@ -19,8 +19,8 @@
 
 
 <div>
-<a href="https://github.com/augustoreregistersoftware">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoreregistersoftware&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/augustoregistersoftware">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoregistersoftware&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
           
