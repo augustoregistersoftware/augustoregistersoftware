@@ -7,7 +7,7 @@
 
 
 ## Banco de dados:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://cdn.discordapp.com/attachments/1149671182304550914/1161021429551218858/sqlserver.png?ex=6536c877&is=65245377&hm=7c55f35e55fae7e4e15ba79c8274f94a4c76c6efd77e2dd86474a9ea9dc9bdbb&)" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png" width="40" height="40" />
           
 ## Frameworks:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="40" height="40"/> 
