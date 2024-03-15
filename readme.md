@@ -14,13 +14,6 @@
 
 <br>
 
-check out my latest app: [Doodle Draw](https://sindresorhus.com/doodle-draw) ![](hot.gif)
-
-and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
-
-<br>
-<br>
-
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
 ![](flames.gif)
