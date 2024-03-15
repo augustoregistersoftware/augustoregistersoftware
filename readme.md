@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and cars**&nbsp;&nbsp;![](XOHR.gif)
 
 <img src="party-furby.gif" align="right" width="60">
 
