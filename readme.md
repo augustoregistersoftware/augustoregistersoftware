@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and BJJ**&nbsp;&nbsp;![](XOHR.gif)
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and BJJ**&nbsp;&nbsp;![](bjj.gif)
 <br>
 [RELAX](https://youtu.be/2_ANCiQOEfw?si=FMYfoBYyNKDvUpjJ)
 <br>
